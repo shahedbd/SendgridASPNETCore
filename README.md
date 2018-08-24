@@ -22,25 +22,25 @@ Set Environment Variable <br />
 var setKey = Environment.SetEnvironmentVariable("SENDGRID_API_KEY", "YOUR_API_KEY"); <br /><br />
 
 ###  Code Snippet
-![Code Snippet](https://github.com/csharplang/Sendgrid/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/Code%20Snippet.png)
+![Code Snippet](https://github.com/shahedbd/SendgridASPNETCore/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/Code%20Snippet.png)
 
 
 
 ###  Send Mail UI
-![SendMailUI](https://github.com/csharplang/Sendgrid/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/SendMailUI.png)
+![SendMailUI](https://github.com/shahedbd/SendgridASPNETCore/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/SendMailUI.png)
 
 
 
 ###  Mail Sending
-![Code Snippet](https://github.com/csharplang/Sendgrid/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/MailSending.png)
+![Code Snippet](https://github.com/shahedbd/SendgridASPNETCore/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/MailSending.png)
 
 
 
 ### Sendgrid API Status
-![Code Snippet](https://github.com/csharplang/Sendgrid/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/SendMailStatus.png)
+![Code Snippet](https://github.com/shahedbd/SendgridASPNETCore/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/SendMailStatus.png)
 
 
 ### Sendgrid API variable setup using ASP.NET resource file
-![Email components-resouce files](https://github.com/csharplang/Sendgrid/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/Email%20components-resouce%20files.png)
+![Email components-resouce files](https://github.com/shahedbd/SendgridASPNETCore/blob/master/Sln.SendGridDotNetCore/SendGridDotNetCore/README/Resources/Email%20components-resouce%20files.png)
 
 
