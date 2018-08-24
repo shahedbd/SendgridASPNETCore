@@ -1,4 +1,4 @@
-# Sendgrid ASP.NET core Implementations Details
+# Sendgrid eMail send ASP.NET core Implementations Details
 
 # Overview 
 This library allows you to quickly and easily use the SendGrid Web API v3 via C# with .NET.  Version 9.X.X+ of this library provides full support for all SendGrid Web API v3 endpoints, including the new v3 /mail/send.  
